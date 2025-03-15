@@ -414,4 +414,4 @@ const configSchema = {
   },
 };
 
-export default configSchema;
+module.exports = configSchema;
